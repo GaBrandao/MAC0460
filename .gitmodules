@@ -1,0 +1,6 @@
+[submodule "tcc/themes/hugo-coder"]
+	path = tcc/themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
+[submodule "tcc/submodules/embed-pdf"]
+	path = tcc/submodules/embed-pdf
+	url = https://github.com/anvithks/hugo-embed-pdf-shortcode.git
