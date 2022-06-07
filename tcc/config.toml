@@ -175,7 +175,7 @@ url = "mailto:gabriel.brandaoal@gmail.com"
 [[languages.pt-br.menu.main]]
 name = "Proposta"
 weight = 1
-url = "proposta/proposta.pdf"
+url = "proposta/"
 
 # [[languages.pt-br.menu.main]]
 # name = "Blog"
