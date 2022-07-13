@@ -1,4 +1,4 @@
-baseURL = "https://linux.ime.usp.br/~gbrandao/MAC0499"
+baseURL = "https://linux.ime.usp.br/~gbrandao/mac0499"
 title = "TCC"
 theme = "hugo-coder"
 languageCode = "en"

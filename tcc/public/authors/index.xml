@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on TCC</title>
-    <link>https://linux.ime.usp.br/~gbrandao/MAC0499/authors/</link>
+    <link>https://linux.ime.usp.br/~gbrandao/mac0499/authors/</link>
     <description>Recent content in Authors on TCC</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://linux.ime.usp.br/~gbrandao/MAC0499/authors/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://linux.ime.usp.br/~gbrandao/mac0499/authors/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

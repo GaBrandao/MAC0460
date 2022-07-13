@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TCC</title>
-    <link>https://linux.ime.usp.br/~gbrandao/MAC0499/</link>
+    <link>https://linux.ime.usp.br/~gbrandao/mac0499/</link>
     <description>Recent content on TCC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 15 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://linux.ime.usp.br/~gbrandao/MAC0499/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://linux.ime.usp.br/~gbrandao/mac0499/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HTML and CSS only tabs</title>
-      <link>https://linux.ime.usp.br/~gbrandao/MAC0499/posts/html-and-css-only-tabs/</link>
+      <link>https://linux.ime.usp.br/~gbrandao/mac0499/posts/html-and-css-only-tabs/</link>
       <pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://linux.ime.usp.br/~gbrandao/MAC0499/posts/html-and-css-only-tabs/</guid>
+      <guid>https://linux.ime.usp.br/~gbrandao/mac0499/posts/html-and-css-only-tabs/</guid>
       <description>Basic shortcodes The following content:
 {{&amp;lt; tabgroup &amp;gt;}} {{&amp;lt; tab name=&amp;#34;Hello&amp;#34; &amp;gt;}} Hello World! {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; tab name=&amp;#34;Goodbye&amp;#34; &amp;gt;}} Goodbye Everybody! {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; /tabgroup &amp;gt;}} Will generate:
 Hello Hello World! Goodbye Goodbye Everybody! Right alighment You can also align the tabs to the right:
@@ -21,73 +21,73 @@ Hello Hello World! Goodbye Goodbye Everybody! Right alighment You can also align
     
     <item>
       <title>Guia de Sintaxe Markdown</title>
-      <link>https://linux.ime.usp.br/~gbrandao/MAC0499/posts/markdown-syntax/</link>
+      <link>https://linux.ime.usp.br/~gbrandao/mac0499/posts/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://linux.ime.usp.br/~gbrandao/MAC0499/posts/markdown-syntax/</guid>
+      <guid>https://linux.ime.usp.br/~gbrandao/mac0499/posts/markdown-syntax/</guid>
       <description>&lt;p&gt;Esse artigo é um exemplo básico para mostrar a sintaxe Markdown que é usada nos arquivos de conteúdo do Hugo. Ele também mostrar como cada elemento básico HTML é estilizado com CSS com os temas do Hugo.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Conteúdo Rico</title>
-      <link>https://linux.ime.usp.br/~gbrandao/MAC0499/posts/rich-content/</link>
+      <link>https://linux.ime.usp.br/~gbrandao/mac0499/posts/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://linux.ime.usp.br/~gbrandao/MAC0499/posts/rich-content/</guid>
+      <guid>https://linux.ime.usp.br/~gbrandao/mac0499/posts/rich-content/</guid>
       <description>&lt;p&gt;O Hugo vem com vários &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Shortcodes Internos&lt;/a&gt; para conteúdo rico, assim como uma &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Configuração de Privacidade&lt;/a&gt; e uma gama de Shortcodes simples que permitem embutir versões estáticas e sem JS de várias de redes sociais.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Mais Conteúdo Rico</title>
-      <link>https://linux.ime.usp.br/~gbrandao/MAC0499/posts/more-rich-content/</link>
+      <link>https://linux.ime.usp.br/~gbrandao/mac0499/posts/more-rich-content/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://linux.ime.usp.br/~gbrandao/MAC0499/posts/more-rich-content/</guid>
+      <guid>https://linux.ime.usp.br/~gbrandao/mac0499/posts/more-rich-content/</guid>
       <description>&lt;p&gt;O Hugo Coder proporciona alguns Shortcodes Customizados.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Texto de Exemplo</title>
-      <link>https://linux.ime.usp.br/~gbrandao/MAC0499/posts/placeholder-text/</link>
+      <link>https://linux.ime.usp.br/~gbrandao/mac0499/posts/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://linux.ime.usp.br/~gbrandao/MAC0499/posts/placeholder-text/</guid>
+      <guid>https://linux.ime.usp.br/~gbrandao/mac0499/posts/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Configuração de Equações Matemáticas</title>
-      <link>https://linux.ime.usp.br/~gbrandao/MAC0499/posts/math-typesetting/</link>
+      <link>https://linux.ime.usp.br/~gbrandao/mac0499/posts/math-typesetting/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://linux.ime.usp.br/~gbrandao/MAC0499/posts/math-typesetting/</guid>
+      <guid>https://linux.ime.usp.br/~gbrandao/mac0499/posts/math-typesetting/</guid>
       <description>&lt;p&gt;Em um projeto Hugo as Notações Matemáticas podem ser usadas com a ajuda de bibliotecas JavaScript de terceiros.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Suporte a Emojis</title>
-      <link>https://linux.ime.usp.br/~gbrandao/MAC0499/posts/emoji-support/</link>
+      <link>https://linux.ime.usp.br/~gbrandao/mac0499/posts/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://linux.ime.usp.br/~gbrandao/MAC0499/posts/emoji-support/</guid>
+      <guid>https://linux.ime.usp.br/~gbrandao/mac0499/posts/emoji-support/</guid>
       <description>&lt;p&gt;Emojis podem ser ativados em um projeto Hugo de diversar formas.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Página Externa: Wiki Hugo Coder</title>
-      <link>https://linux.ime.usp.br/~gbrandao/MAC0499/posts/hugo-coder-wiki/</link>
+      <link>https://linux.ime.usp.br/~gbrandao/mac0499/posts/hugo-coder-wiki/</link>
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://linux.ime.usp.br/~gbrandao/MAC0499/posts/hugo-coder-wiki/</guid>
+      <guid>https://linux.ime.usp.br/~gbrandao/mac0499/posts/hugo-coder-wiki/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://linux.ime.usp.br/~gbrandao/MAC0499/about/</link>
+      <link>https://linux.ime.usp.br/~gbrandao/mac0499/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://linux.ime.usp.br/~gbrandao/MAC0499/about/</guid>
+      <guid>https://linux.ime.usp.br/~gbrandao/mac0499/about/</guid>
       <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 Hugo makes use of a variety of open source projects including:
 https://github.com/yuin/goldmark https://github.</description>
@@ -95,37 +95,37 @@ https://github.com/yuin/goldmark https://github.</description>
     
     <item>
       <title>Contact</title>
-      <link>https://linux.ime.usp.br/~gbrandao/MAC0499/contact/</link>
+      <link>https://linux.ime.usp.br/~gbrandao/mac0499/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://linux.ime.usp.br/~gbrandao/MAC0499/contact/</guid>
+      <guid>https://linux.ime.usp.br/~gbrandao/mac0499/contact/</guid>
       <description>Follow me, @johndoe.</description>
     </item>
     
     <item>
       <title>Monografia</title>
-      <link>https://linux.ime.usp.br/~gbrandao/MAC0499/monografia/</link>
+      <link>https://linux.ime.usp.br/~gbrandao/mac0499/monografia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://linux.ime.usp.br/~gbrandao/MAC0499/monografia/</guid>
+      <guid>https://linux.ime.usp.br/~gbrandao/mac0499/monografia/</guid>
       <description>Escrevendo&amp;hellip; ✍️</description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://linux.ime.usp.br/~gbrandao/MAC0499/projects/</link>
+      <link>https://linux.ime.usp.br/~gbrandao/mac0499/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://linux.ime.usp.br/~gbrandao/MAC0499/projects/</guid>
+      <guid>https://linux.ime.usp.br/~gbrandao/mac0499/projects/</guid>
       <description>Nothing to see here&amp;hellip; Move along!</description>
     </item>
     
     <item>
       <title>Proposta</title>
-      <link>https://linux.ime.usp.br/~gbrandao/MAC0499/proposta/</link>
+      <link>https://linux.ime.usp.br/~gbrandao/mac0499/proposta/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://linux.ime.usp.br/~gbrandao/MAC0499/proposta/</guid>
+      <guid>https://linux.ime.usp.br/~gbrandao/mac0499/proposta/</guid>
       <description>Acesse aqui.</description>
     </item>
     
